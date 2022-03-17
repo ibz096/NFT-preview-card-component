@@ -59,6 +59,8 @@ html, body, .container {
 
 .author {
     border-top: 1px solid var(--very-dark-blue-line);
+    display: flex;
+    flex-direction: row;
 }
 
 .author img {
