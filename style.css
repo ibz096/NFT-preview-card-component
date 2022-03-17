@@ -49,6 +49,10 @@ html, body, .container {
     justify-content: space-between;
 }
 
+.nft-price p span{
+    color: var(--cyan);
+}
+
 .line {
     color: var(--very-dark-blue-line);
 }
